@@ -10,6 +10,7 @@ Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Un
 * MATLAB
 * Javascript
 * HTML/SCSS
+* Bash
 
 #### Softwares:
 * SolidWorks
