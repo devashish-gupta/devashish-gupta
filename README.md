@@ -1,16 +1,28 @@
-### Hi there 👋
+## Devashish Gupta
+Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
+(B.E. Mechanical Engineering + Physics)
 
-<!--
-**devasys/devasys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Skills & Experience:
+* C/C++
+* Robot Operating System (ROS)
+* Python
+* MATLAB
+* Javascript
+* HTML/SCSS
 
-Here are some ideas to get you started:
+#### Softwares:
+* SolidWorks
+* COMSOL Multiphysics
+* Blender
+* MSC Adams
+* Simulink
+* AutoCAD
+* FL Studio
+* Photoshop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Interests:
+* Signal/Image Processing
+* Robotics
+* Radio Astronomy
+* Microfluidics
+* Chaos Theory
