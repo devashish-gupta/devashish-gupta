@@ -4,7 +4,7 @@ Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Un
 (B.E. Mechanical Engineering + Physics)
 
 #### Skills & Experience:
-* C/C++
+* C and C++
 * Robot Operating System (ROS)
 * Python
 * MATLAB
@@ -13,6 +13,7 @@ Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Un
 
 #### Softwares:
 * SolidWorks
+* MS Visual Studio
 * COMSOL Multiphysics
 * Blender
 * MSC Adams
@@ -23,7 +24,8 @@ Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Un
 
 #### Interests:
 * Signal/Image Processing
-* Robotics
+* Audio Software Development
+* Mechatronics
 * Radio Astronomy
 * Microfluidics
 * Chaos Theory
