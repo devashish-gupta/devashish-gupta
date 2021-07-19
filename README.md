@@ -23,10 +23,10 @@ Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Un
 * FL Studio
 * Photoshop
 
-#### Interests:
+#### Research Interests:
 * Signal/Image Processing
 * Audio Software Development
 * Mechatronics
 * Radio Astronomy
 * Microfluidics
-* Chaos Theory
+* Chaos Theory and Dynamical Systems
