@@ -1,4 +1,4 @@
-## Devashish Gupta
+# Devashish Gupta
 Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
 
 (B.E. Mechanical Engineering + Physics)
