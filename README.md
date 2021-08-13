@@ -1,8 +1,6 @@
 # Devashish Gupta
 Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
 
-(B.E. Mechanical Engineering + Physics)
-
 #### Skills & Experience:
 * C and C++
 * Robot Operating System (ROS)
