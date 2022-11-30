@@ -1,5 +1,5 @@
 # Devashish Gupta
-MS Robotics @ Georgia Tech | Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
+MS Robotics @ Georgia Tech | Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani '21
 
 #### Skills & Experience:
 * C and C++17
