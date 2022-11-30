@@ -1,14 +1,17 @@
 # Devashish Gupta
-Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
+MS Robotics @ Georgia Tech | Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani 
 
 #### Skills & Experience:
-* C and C++
+* C and C++17
+* Qt
 * Robot Operating System (ROS)
-* Python
+* Python 3.x
 * MATLAB
-* Javascript
-* HTML/SCSS
-* Bash
+* Typescript
+* React/React Native
+* Win32 API
+* Boost
+
 
 #### Softwares:
 * SolidWorks
