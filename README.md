@@ -1,33 +1,6 @@
 # Devashish Gupta
-MS Robotics @ Georgia Tech | Centre for Artificial Intelligence and Robotics, DRDO | ISRO Inertial Systems Unit | BITS Pilani '21
+MS Robotics @ Georgia Tech | Centre for AI & Robotics | Indian Space Research Organization | Aditya Birla Scholar | BITS Pilani '21
 
-#### Skills & Experience:
-* C and C++17
-* Qt
-* Robot Operating System (ROS)
-* Python 3.x
-* MATLAB
-* Typescript
-* React/React Native
-* Win32 API
-* Boost
+Impact-driven ML specialist with experience in multimodality, VLMs, LLMs, retrieval, audio and geospatial understanding, massively parallel computing and real-time analytics. 
 
-
-#### Softwares:
-* SolidWorks
-* MS Visual Studio
-* COMSOL Multiphysics
-* Blender
-* MSC Adams
-* Simulink
-* AutoCAD
-* FL Studio
-* Photoshop
-
-#### Research Interests:
-* Signal/Image Processing
-* Audio Software Development
-* Mechatronics
-* Radio Astronomy
-* Microfluidics
-* Chaos Theory and Dynamical Systems
+Currently building Geode: a zero-shot geospatial question answering agent with precise spatiotemporal retrieval and complex reasoning capabilities, driven by LLM-based code generation. Powered by a set of pretrained, RAG-enabled geospatial experts, queried and composable via an API.
